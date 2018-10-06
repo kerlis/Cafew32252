@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cafew32</string>
+
+
+
+    <string name="valor">es el valor</string>
+
+    <string name="nrotazas">1</string>
+    <string name="ordenar">ordenar</string>
+
+</resources>
